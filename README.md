@@ -1,6 +1,6 @@
 # FibeAI Banking Support Ticket Classifier Service
 
-## Solution by: [Your Name]
+## Solution by: Chandan M
 
 Thank you for the engaging challenge! This document outlines the solution for the banking support ticket classification service. The goal is to triage incoming banking support tickets by classifying them as needing either an AI-generated code remediation or a Vibe-coded troubleshooting script, and providing an appropriate action plan.
 
